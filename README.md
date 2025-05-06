@@ -7,3 +7,6 @@ To identify larger abnormalities such as cysts and calcifications in pancreatic 
 
 ## Results
 We demonstrate the effectiveness of the proposed methods with representative images. In Figure 1, where the contrastive learning framework successfully detects pancreatic cysts and calcifications within MRI images, distinguishing them from normal pancreatic tissue. Figure 2 illustrates that the application of the Frangi vesselness filter enhances the visibility of the pancreatic duct, enabling its identification and extraction from the MRI scans.
+
+## Conclusion
+Our study provides a proof of concept that image processing techniques such as contrastive learning with CNNs and the Frangi vesselness filter can effectively detect pancreatic abnormalities in MRI scans. These methods can automate the identification of cysts, calcifications, and ductal dilatations, enhancing diagnostic accuracy and aiding radiologists in early detection and improved patient management.
